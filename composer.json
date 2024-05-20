@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0.0",
-        "woub-chat/embedded-call": "*"
+        "woub-chat/embedded-call": "^1.0.1"
     },
     "require-dev": {},
     "autoload": {
