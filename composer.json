@@ -1,18 +1,13 @@
 {
-    "name": "bfg/repository",
+    "name": "woub-chat/repository",
     "description": "Missing repositories for Eloquent models Laravel",
-    "type": "bfg-app",
+    "type": "app",
     "keywords": ["laravel", "extension", "repository"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "bfg"
-        }
-    ],
     "prefer-stable": true,
     "require": {
         "php": ">=8.0.0",
-        "bfg/embedded-call": "*"
+        "woub-chat/embedded-call": "*"
     },
     "require-dev": {},
     "autoload": {
